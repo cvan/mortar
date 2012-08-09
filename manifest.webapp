@@ -3,16 +3,16 @@
   "name": "My App",
   "description": "Your new awesome Open Web App",
   "icons": {
-    "16": "/img/icons/mortar-16.png",
-    "48": "/img/icons/mortar-48.png",
-    "128": "/img/icons/mortar-128.png"
+    "16": "/master/img/icons/mortar-16.png",
+    "48": "/master/img/icons/mortar-48.png",
+    "128": "/master/img/icons/mortar-128.png"
   },
   "developer": {
     "name": "Your Name",
     "url": "http://yourawesomeapp.com"
   },
   "installs_allowed_from": ["*"],
-  "appcache_path": "/cache.manifest",
+  "appcache_path": "/master/cache.manifest",
   "locales": {
     "es": {
       "description": "Su nueva aplicación impresionante Open Web",
