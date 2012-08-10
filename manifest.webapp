@@ -3,9 +3,9 @@
   "name": "Ragz 4 lyfe",
   "description": "Your new awesome Open Web App",
   "icons": {
-    "16": "/master/img/icons/mortar-16.png",
-    "48": "/master/img/icons/mortar-48.png",
-    "128": "/master/img/icons/mortar-128.png"
+    "16": "https://raw.github.com/cvan/mortar/master/img/icons/mortar-16.png",
+    "48": "https://raw.github.com/cvan/mortar/master/img/icons/mortar-48.png",
+    "128": "https://raw.github.com/cvan/mortar/master/img/icons/mortar-128.png"
   },
   "developer": {
     "name": "Your Name",
